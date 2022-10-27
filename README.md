@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PangXitong
-- 👀 I’m interested in Minecraft Java,macOS,Linux,Minecraft Java Server, Minecraft Java Web Server.
+- 👀 I’m interested in Minecraft Java,macOS,Linux,Minecraft Java Server, Minecraft Java Web Server;code studing HTML CSS JavaScript and Swift UI.
 - 🌱 I’m currently learning SwiftUI html JavaScript 
 - 💞️ I’m looking to collaborate on None
 - 📫 How to reach me pangxitong@yeah.net
