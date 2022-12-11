@@ -1,0 +1,69 @@
+<!--头部-->
+<html>
+  <head>
+    <meta name="description"content="庞玺桐个人博客">
+    <meta charset="utf-8">
+    <title>庞玺桐的个人博客</title> 
+            <meta name="keywords"content="庞玺桐,博客,庞玺桐的个人博客">
+    <link rel="shortcut icon" href="./images/favicon.ico">
+    <link rel="stylesheet" type="text/css" href="./css.css">
+    <script type="text/javascript" src="./JavaScript.js"></script>
+    
+    <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?4882febf72013f5fbb90c577bfa65f40";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+      <!--span颜色注释-->
+    <style>
+             span {
+                   color: black;
+             }
+    </style>
+  </head>
+<!--身体-->
+  <body>
+    <h1 style="color:red"align="center"><big><big><big><big>庞玺桐的个人博客</h1></big></big></big>
+    <style>
+    body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    background: url(images/background.webp) no-repeat;
+    background-size: cover;
+}
+    </style>
+    
+        <style>
+        .button1 {
+            -webkit-transition-duration: 0.4s;
+            transition-duration: 0.4s;
+            padding: 32px 64px;
+            text-align: center;
+            background-color: white;
+            color: black;
+            border: 4px solid #0079F2;
+            border-radius:20px;
+        }
+        .button1:hover {
+            background-color: #4CAF50;
+            color: white;
+        }
+    </style>
+    <p align="center"><a href="./start.html.en"><button class="button1"><big><big>进入博客</big></big></button></a></p>
+    <br>
+      <!-- 开服时间 -->
+      <script defer="">
+
+      </script>
+    <span><p style="text-align: center;">博客版本:1.0.0&nbsp;&nbsp;&nbsp;&nbsp;开发者:庞玺桐</p>
+<div style="text-align:center;"style="display:inline-block;"class="uptime">本站已上线运行91天1小时41分43秒</div></span>
+  </body>
+</html>

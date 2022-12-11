@@ -1,0 +1,282 @@
+<!--头部-->
+<html lang="zh-CN">
+  <head>
+    <meta name="description"content="庞玺桐的个人博客">
+    <meta charset="utf-8">
+    <title>庞玺桐的个人博客</title> 
+            <meta name="keywords"content="庞玺桐,博客,庞玺桐的个人博客">
+    <link rel="shortcut icon" href="./images/favicon.ico">
+    <link rel="stylesheet" type="text/css" href="./css.css">
+    <meta name="applicable-device" content="pc,mobile">
+    <script type="text/javascript" src="./JavaScript.js"></script>
+    <!--百度统计-->
+   <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?4882febf72013f5fbb90c577bfa65f40";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+    </script>
+    <!--弹窗-->
+    <div class="web_notice" style="
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+background: rgba(0,0,0,0.3);
+z-index: 99999;
+">
+    <div style="position: fixed;top: 50%;left: 50%;width: 500px;background: #FFF;transform: translate(-50%, -50%);border-radius: 40px;padding: 20px 40px;">
+        <h3 style="font-weight: bold;text-align: center;font-size: 30px;"><span3>公告</span3>
+            <div style="
+		font-size: 16px;
+		margin-top: 26px;
+		line-height: 30px;
+		color: #000;>"<br>此网站为庞玺桐的个人博客<br>MCCU官网在顶端菜单栏</a>
+		</div>
+            <a style="
+		display: block;
+		background: #0053AA;
+		color: #FFF;
+		text-align: center;
+		font-weight: bold;
+		font-size: 19px;
+		line-height: 60px;
+		margin: 0 auto;
+		margin-top: 25px;
+		border-radius: 32px;
+		width: 80%;
+		" onclick="javascript:document.querySelector('.web_notice').remove()">
+                我知道了</a>
+    </div>
+</div>
+  <!--span颜色注释-->
+    <style>
+             span {
+                   color: #EDEDED;
+             }
+                   span2 {
+                          color: #EEFCA9;
+                   }
+             span3 {
+                   color: red;
+             }
+             span4 {
+                   color: black;
+             }
+             span5 {
+                   color: #D6B1A6;
+             }
+             span6 {
+                   color: #E25DA9;
+             }
+    </style>
+    <!--复制链接-->
+    <script src="https://cdn.bootcdn.net/ajax/libs/clipboard.js/2.0.8/clipboard.min.js">
+    </script>
+    <script>
+                function shareCopyUrl(that) {
+       var clipboard = new ClipboardJS(that);
+              clipboard.on('success', function (e) {
+                  console.info('Text:', e.text);
+                  e.clearSelection();
+              }); 
+              clipboard.on('error', function (e) {
+                  // console.error('Action:', e.action);
+                  // console.error('Trigger:', e.trigger);
+              });
+              // 处理第一次点击不成功
+              clipboard.onClick(event);
+          }
+    </script>
+    <!--固定顶部导航栏-->    
+      <div class="top">
+        <center> 
+          <ul>
+            <li><a href="#">庞玺桐的个人博客
+            <li><a href="./mccu/index.html.en">MCCU</a></li>
+            <li id="right"><a href="https://github.com/login/oauth/authorize?client_id=b2de3d132f1cc875b717"target="_blank">通过GitHub登录</a></li>
+            </li>        
+          </ul>
+        </center>      
+      </div>
+    </head>
+<!--身体-->
+  <body>
+<!--表头-->
+    <br>
+    <br>
+    <br>
+    <h1 style="color:red"align="center"><big><big><big><big>庞玺桐的个人博客</h1></big></big></big>
+<!--概况-->
+    <p>
+      <table>
+        <tr align="center">
+        <td>
+          <h1 style="color:red"align="center">博客概况</h1>
+            <a href="http://pangxitong.free.tryzth.com"target="_blank">博客：http://pangxitong.free.tryzth.com</a>
+            <button type="button">
+              <a href="javascript:;" onclick="shareCopyUrl(this)" data-clipboard-text="http://pangxitong.free.tryzth.com">复制</a>
+            </button>
+            <br>
+            <a href="https://mastergo.com/files/invite-member/79119459559416?inviter=79119459559414"target="_blank">页面设计投稿：mastergo.com</a>
+            <button type="button">
+              <a href="javascript:;" onclick="shareCopyUrl(this)" data-clipboard-text="http://mccu.free.tryzth.com">复制</a>
+            </button>
+            <br>
+            <a href="http://minecraftcommunism.free.tryzth.com"target="_blank"><html xmlns:wb="http://open.weibo.com/wb"><script src="https://tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8"></script><wb:follow-button uid="7460136539" type="red_1" width="67" height="24" ></wb:follow-button>
+            <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=LC6KPTkFQhzfupb4f9GJNqBfr6kNcYCD&jump_from=webapi&authKey=JmcW+Ft61Bu+va7EmwVLE9W7LwNKt+Nin5INjZqAOB7PPNC9j66HGq3/8Y73rsOz"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="MCCU" title="MCCU"></a>
+            <html xmlns:wb="http://open.weibo.com/wb"><script src="https://tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8"></script><wb:share-button addition="simple" type="button" default_text="分享庞玺桐的个人博客，让我们一起做公益吧！" ralateUid="7460136539"></wb:share-button></a>
+            <br>
+          </p>
+        </td>
+        <td>
+          <p align="center">
+            <img src="./images/PangXitong.jpeg"width="256" height="256" />
+          </p>
+        </td>
+      </tr>
+    </table>
+    </p>
+    <h1 style="color:red"align="center">公告</h1>
+    <p align="center">
+      此网站为庞玺桐的个人博客
+      <br>
+      MCCU官网在顶端菜单栏
+    </p>
+    
+    <table>
+      <tr align="center">
+        <td>
+          <h1 style="color:red"align="center">GitHub</h1>
+          <p align="center"class="paragraph-left">
+            GitHub是一个来自美国的源代码公开平台，我在<br>GitHub创建了多个项目，希望代码自由能够尽快实<br>现。我认为，在虚拟世界中，人人平等，没有贫富差<br>距、种族歧视和性别歧视等现象。那么，科学技术也<br>应该公众于世，而不是作为资本的工具。信息技术是<br>造福人类的，而不是为人类添乱的。我是一个代码自<br>由主义者，也是一名共产主义者，希望我们能够贡献<br>出自己的微薄力量。<br><br>我的GitHub项目遵循GPL3.0开源协议，一切借助我的<br>开源项目的原创代码或原创创意的开发者也必须遵循<br>GPL3.0开源协议，将源代码开源，希望各位能够共同<br>维护和平自由的网络代码环境。<br>
+            <a href="https://github.com/PangXitong"target="_blank">关注PangXitong</a>
+            <br>
+            以下是我的开源项目
+            <br>
+            <a href="https://github.com/PangXitong/Minecraft-Communism-Union-Official-Website"target="_blank">我的世界共产主义联盟官网</a>
+            <br>
+            <a href="https://github.com/PangXitong/Minecraft-resource-pack"target="_blank">我的世界服务器资源包</a>
+            <br>
+            <a href="https://github.com/PangXitong/HTML-Code-Clip-Sharing"target="_blank">HTML代码片段共享</a>
+            <br>
+            <a href="https://github.com/PangXitong/PangXitong"target="_blank">庞玺桐的个人博客</a>
+          </p>
+        </td>
+        <td align="left">
+          <br>目前，我的博客应用的标题代码是：
+          <br><p class="code"><big><a >&#160;&#60;h1&#160;style="<span5>color:red</span5>"align="<span5>center</span5>"&#62;</a><br>&#160;&#160;&#160;<span>标题</span><br><a >&#60;/h1&#62;</a></big></p>
+          效果：
+          <h1 style="color:red"align="center">标题</h1>
+          现征集描述h1的CSS片段<br>
+          <p class="code"><big><span>&#160;h1&#160;{</span><br>&#160;&#160;<span6>&#160;属性</span6><span>：值</span><br><span>&#160;}</span></big></p>
+          如果大家有相应的开源代码<br>您可以在<a href="https://github.com/PangXitong/PangXitong"target="_blank">这里</a><br>发布“Pull Request”<br>直接对现有代码进行修改
+        </td>
+      </tr>
+    </table>
+
+    <table>
+      <tr align="center">
+        <td>
+          <h1 style="color:red"align="center">World&#160;Community&#160;Grid</h1>
+          <p align="center"class="paragraph-left">
+            BOINC的World Community Grid是一个，通过创建由全<br>球志愿者社区授权的超级计算机来加速科学的非营利性<br>公益志愿组织.<br><br>此团队是来自中华人民共和国的庞玺桐创建的非营利性<br>公益组织团队，我来自吉林省长春市，欢迎各位无私的<br>“公民科学家”加入，让我们一起通过BOINC的World <br>Community Grid为世界的非营利性科研组织提供宝贵的<br>算力，进而推动整个人类社会的发展和完善吧！
+          </p>
+          <a href="https://join.worldcommunitygrid.org?recruiterId=1147626"target="_blank">加入庞玺桐的团队</a>
+        </td>
+        <td><br>
+          <img src="./images/Boinc.jpg"width="256" height="353" />
+        </td>
+      </tr>
+    </table>
+    <!--支持我们-->
+    <p>
+      <table>
+        <tr align="center">
+          <td>
+            <h1 style="color:red"align="center">支持我们</h1>
+            <p align="center">
+              <br>
+              右侧二维码是支付宝领取每日红包的二维码
+              <br>
+              扫描二维码不会扣除您的存款，反而在消费时可以抵扣您的账单
+              <br>
+              我也能收到来自支付宝的收益，感谢您的支持
+              <br>
+              <br>
+              我还开通了“爱发电”捐助
+              <br>
+              <a href="https://afdian.net/a/PangXitong"target="_blank">点击进入“爱发电”捐助</a>
+              <button type="button">
+                <a href="javascript:;" onclick="shareCopyUrl(this)" data-clipboard-text="https://afdian.net/a/PangXitong">点击复制</a>
+              </button>
+              <br>
+              您的捐助是我前进的动力，感谢您的捐助！
+            </p>
+          </td>
+          <td>
+            <img border="0" src="./images/支持我们.jpg"width="256" height="371" />
+          </td>
+        </tr>
+      </table>
+    </p>
+    <!--下载介绍文件-->
+    <p align="center">
+      <a href="./images/按钮下载的文件.pdf" download="Minecraft Communism Union.pdf"><button type="button">下载介绍文件（开发中)</button></a>
+    </p>
+   <!--底部导航栏-->
+   <p style="background-color:#222222"style="color:#FFF"align="center">
+     <span><big><big><big><big>关注我们</big></big></big></big></span><br>
+     <a href="https://jq.qq.com/?_wv=1027&k=HkcZEDm4"target="_blank"><img border="0" src="./images/qq.webp"width="100" height="100" />&#160;&#160;&#160;&#160;</a>
+     <a href="https://y.music.163.com/m/artist?app_version=8.8.20&id=51058853&userid=3695971939&dlt=0846"target="_blank"><img border="0" src="./images/NetEaseCloudMusic.png"width="100" height="100" />&#160;&#160;&#160;&#160;
+     <a href="https://join.worldcommunitygrid.org?recruiterId=1147626"target="_blank"><img border="0" src="./images/WCG.webp"width="100" height="100" />&#160;&#160;&#160;&#160;</a>
+     <a href="https://v.douyin.com/6Fy16w1/"target="_blank"><img border="0" src="./images/tik-tok.png"width="100" height="100" />&#160;&#160;&#160;&#160;</a>
+     <a href="https://weibo.com/u/7460136539"target="_blank"><img border="0" src="./images/microblog.webp"width="100" height="100" /></a>&#160;&#160;&#160;&#160;</a>
+     <a href="mailto:pangxitong@yeah.net"target="_blank"><img border="0" src="./images/mail.webp"width="100" height="100" /></a>&#160;&#160;&#160;&#160;</a>
+     <a href="https://github.com/PangXitong"target="_blank"><img border="0" src="./images/GitHub.webp"width="100" height="100" />&#160;&#160;&#160;&#160;</a>
+     <a href="https://pan.baidu.com/s/1ZcUdw9lwF8Pde9fg_uSZhw?pwd=97xm"target="_blank"><img border="0" src="./images/panbaidu.webp"width="100" height="100" />&#160;&#160;&#160;&#160;</a>
+     <a href="https://afdian.net/a/PangXitong"target="_blank"><img border="0" src="./images/Money_Pro.webp"width="100" height="100" /></a>
+     <!-- 开服时间 -->
+      <class>
+        <table style="background-color:#222222">
+          <tr>
+            <td>
+              <div class="main-footer">
+                <div class="container">
+                  <div class="row">
+                    <div class="col-md-4"class="city">
+                      <h4>技术支持</h4>
+                      <ul class="footer-links">
+                        <li><a href="https://www.w3school.com.cn"target="_blank">W3school</a> </li>
+                        <li><a href="https://www.w3school.com.cn/html/index.asp"target="_blank">HTML</a></li>
+                        <li><a href="https://tryzth.com"target="_blank">Panda Frp</a></li>
+                        <li><a href="https://www.natfrp.com"target="_blank">SAKURA FRP</a></li>
+                        <li><a href="https://github.com"target="_blank">GitHub</a></li>
+                        <li><a href="https://tongji.baidu.com"target="_blank">百度统计</a></li>
+                      </ul>
+                    </div>
+                    <div class="col-md-4">
+                      <h4>博客声明</h4>
+                      <p>此博客没有收费项目，请各位谨防上当受骗。<br><br>此博客不含广告，仅做公益的正版资源共享和技术交流<br><br></p>
+                    </div>                    
+                    <div class="col-md-4">
+                      <h4>更多信息</h4>
+                      <ul class="footer-links">
+                        <li><a href="url"target="_blank">博客正在开发中，敬请期待</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              <p style="text-align: center;">网站名称：庞玺桐的个人博客&nbsp;&nbsp;&nbsp;网站版本：1.0.0</p>
+              <p style="text-align: center;"><div style="display:inline-block;" class="uptime">本服务器已经运行91天1小时41分43秒</div>&nbsp;&nbsp;&nbsp;开发者：庞玺桐</p>
+            </div>
+          </tr>
+        </table>
+      </class>
+    </p>
+  </body>
+</html>
