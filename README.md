@@ -21,10 +21,6 @@
 ![Safari](https://media.macosicons.com/parse/files/macOSicons/b168b3e06e09547514e2de2702cf7d2f_low_res_safari.png)
 ![Chrome](https://media.macosicons.com/parse/files/macOSicons/c316b24d9eee7497caee4458e7c36531_low_res_Chrome.png)
 
-# 平台账号
-![网易云音乐](https://parsefiles.back4app.com/JPaQcFfEEQ1ePBxbf6wvzkPMEqKYHhPYv8boI1Rc/546f2b42d004e14df07eeafa4fb8f216_CSDGhZZYgO.png)
-![抖音](https://media.macosicons.com/parse/files/macOSicons/4577a0a45d80f2dacef588da6ae6c5c2_low_res_Tik_Tok_Alt.png)
-
 <!---
 PangXitong/PangXitong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
