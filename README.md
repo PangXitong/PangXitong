@@ -9,7 +9,7 @@
 ![JavaScript](https://img.shields.io/badge/-javascript-blue?style=for-the-badge&logo=javascript&logoColor=white)
 
 
-# [我的博客网站](http://pangxitong.free.tryzth.com)
+# [我的博客网站](https://pangxitong.github.io)
 
 ### 我认为，在虚拟世界中，人人平等，没有贫富差距、种族歧视和性别歧视等现象。那么，科学技术也应该公众于世，而不是作为资本的工具，我希望代码自由能够尽快实现。。信息技术是造福人类的，而不是为人类添乱的。我是一个代码自由 主义者，也是一名共产主义者，希望我们能够贡献出自己的微薄力量。 
 
