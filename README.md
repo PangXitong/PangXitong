@@ -7,6 +7,7 @@
 ![HTML](https://img.shields.io/badge/-html-blue?style=for-the-badge&logo=html&logoColor=white)
 ![CSS](https://img.shields.io/badge/-css-blue?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-javascript-blue?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/-python-blue?style=for-the-badge&logo=html&logoColor=white)
 
 # 自我介绍
 
